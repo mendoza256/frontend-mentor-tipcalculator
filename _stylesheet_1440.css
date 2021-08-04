@@ -1,0 +1,87 @@
+
+@media screen and (min-width: 975px) {
+    
+    .logo {
+        margin-top: 10rem;
+        margin-bottom: 5rem;
+    }
+    
+    .container {
+        max-width: 915px;
+        height: 478px;
+        flex-direction: row;
+        justify-content: space-between;
+        padding: 2.8rem 2rem 2.8rem 3rem;
+        margin-bottom: 4rem;
+        gap: 0rem;
+        /* box-sizing: border-box; */
+    }
+
+    .left-side {
+        width: 377px;
+    }
+    
+    .bill {
+        padding-top: 0rem;
+        position: relative;
+        margin-bottom: 2.15rem;
+    }
+
+    .perc-container {
+        max-width: 377px;
+        gap: 0.9rem;
+    }
+
+    .perc {
+        width: 30%;
+    }
+
+    .custom-perc {
+        width: 30%;
+    }
+
+    .perc-container {
+        margin-bottom: 2.4rem;
+    }
+
+    
+    .num-text {
+        margin-bottom: 0rem;
+    }
+
+    .num-ppl {
+        margin-bottom: 0rem;
+    }
+
+    .right-side {
+        max-width: 410px;
+        height: 414px;
+        background-color: hsl(183, 100%, 15%);
+        border-radius: 1rem;
+        padding: 1.5rem;
+        margin-top: -0.75rem;
+        font-weight: 700;
+        display: flex;
+        align-items: baseline;
+        justify-content: left;
+    }
+
+    .output-wrapper {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        height: 100%;
+        padding-top: 1rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .result {
+        font-size: 3rem;
+        align-self: flex-start;
+    }
+
+    .reset {
+        align-self: flex-end;
+    }
+}
