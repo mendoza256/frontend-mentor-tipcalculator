@@ -90,7 +90,7 @@ img[alt="dollar-icon"] {
     font-family: 'Space Mono', monospace;
     padding-right: 1rem;
     padding-top: 0.25rem;
-    border: 2px solid transparent; /*temp */
+    border: 2px solid transparent;
     outline: none;
 }
 
@@ -150,6 +150,14 @@ img[alt="dollar-icon"] {
     font-weight: 700;
     color: hsl(186, 14%, 43%);
     font-family: 'Space Mono', monospace;
+    outline: none;
+    border: 2px solid transparent;
+
+}
+
+.custom-perc:focus {
+    outline: none;
+    border: 2px solid hsl(172, 67%, 45%);
 }
 
 .custom-perc[contentEditable="true"]:empty:before {

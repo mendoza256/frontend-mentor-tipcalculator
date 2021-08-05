@@ -109,8 +109,8 @@ function calculateTip() {
     if (peopleValue >= 1) {
         let tipAmount = billValue * tipValue / peopleValue
         let total = billValue * (tipValue + 1) / peopleValue
-        tipResult.innerHTML =  "€" + tipAmount.toFixed(2);
-        totalResult.innerHTML = "€" + total.toFixed(2);
+        tipResult.innerHTML =  "$" + tipAmount.toFixed(2);
+        totalResult.innerHTML = "$" + total.toFixed(2);
     }
 }
 
@@ -119,8 +119,8 @@ function reset() {
     dollarBill.value = "10.00"
     setBillValue();
 
-    percBtns[2].click;
-    console.log(percBtns[2]);
+    percBtns.forEach(btn => btn.classList.remove("perc-active"));
+    
 
     numPpl.value = "2";
     setPplValue();
