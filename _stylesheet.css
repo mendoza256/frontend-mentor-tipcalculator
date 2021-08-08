@@ -103,6 +103,10 @@ img[alt="dollar-icon"] {
 
 .perc-container {
     display: flex;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -ms-flexbox;
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
