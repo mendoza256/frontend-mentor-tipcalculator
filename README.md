@@ -34,8 +34,7 @@ https://github.com/mendoza256/frontend-mentor-tipcalculator/blob/bd99db17f0136da
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mendoza256/frontend-mentor-tipcalculator)
-- Live Site URL: [Add live site URL here](https://mendoza256.github.io/frontend-mentor-tipcalculator/)
+- Live Site URL: https://frontend-mentor-tipcalculator.vercel.app/
 
 ## My process
 
