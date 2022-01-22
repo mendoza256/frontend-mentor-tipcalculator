@@ -4,10 +4,10 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ## Table of contents
 
+- [Link](#link)
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -15,7 +15,9 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Link
+
+- Live Site URL: https://frontend-mentor-tipcalculator.vercel.app/
 
 ## Overview
 
@@ -30,11 +32,6 @@ Users should be able to:
 ### Screenshot
 
 https://github.com/mendoza256/frontend-mentor-tipcalculator/blob/bd99db17f0136da20791a45b866068dcae71d455/screenshot.png
-
-
-### Links
-
-- Live Site URL: https://frontend-mentor-tipcalculator.vercel.app/
 
 ## My process
 
